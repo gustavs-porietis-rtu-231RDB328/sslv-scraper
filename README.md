@@ -4,8 +4,10 @@ SS.lv ir Latvijā populārākais sludinājumu portāls, taču, tas diemžēl nav
 
 ## Kā lietot
 
-1. Atveriet SS.lv un izvēlaties kādu preču/pakalpojumu kategoriju (piem. Mājas, vasarnīcas -> Rīgas rajons -> Sigulda)
-2. Nokopējiet URL, palaižiet main.py un ievietojiet nokopēto saiti
-3. Izvēlaties vēlamos parametrus (cena, darījuma veids utt.)
-4. Ievadiet e-pastu (ja vēlaties, lai atnāk paziņojumi uz e-pastu par jaunu sludinajumu)
-5. 
+1. Atveriet SS.lv un izvēlaties kādu preču/pakalpojumu kategoriju (piem. Mājas, vasarnīcas -> Rīgas rajons -> Sigulda vai Viglās automašīnas -> Volvo)
+2. Izvēlaties darījuma veidu (piem. Pārdod, Izīrē)
+! Ja meklējat automašīnu, izvēlaties arī modeli
+3. Nokopējiet URL, palaižiet main.py un ievietojiet nokopēto saiti
+4. Ievadie max un min cenu
+5. Ievadiet e-pastu (ja vēlaties, lai atnāk paziņojumi uz e-pastu par jaunu sludinajumu)
+6. 
